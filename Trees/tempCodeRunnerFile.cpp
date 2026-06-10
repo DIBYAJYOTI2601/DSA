@@ -1,0 +1,11 @@
+Node* root = NULL;
+    // root = buildTree(root);
+    // root = insertNode(root,10);
+    // printInOrder(root);
+    // cout<<endl;
+    // printPreOrder(root);
+    // cout<<endl;
+    // printPostOrder(root);
+    // cout<<endl;
+    // levelOrder(root);
+    // cout<<endl;
